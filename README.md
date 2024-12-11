@@ -1,5 +1,3 @@
-## Splunk Defense Project
-
 # Splunk Defense Project
 
 ## Project Overview
@@ -22,12 +20,6 @@ In this project, I utilized **Splunk** to design a custom monitoring environment
 
 ---
 
-## Installation & Setup
-
-To set up this project locally, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Splunk-Defense-Project.git
+## Powerpoint Presentation
 
  [slides](https://docs.google.com/presentation/d/1y3UsZdG6wa0_fxMQmoKxacm4fJd55DOYWjlIQ-QnGo8/edit?usp=sharing)
